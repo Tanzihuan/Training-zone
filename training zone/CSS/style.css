@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+.notebox {
+	clear: both;
+	background-color: #6A94DD;
+	border: #97bfff 1px solid;
+	margin-right: 1.2em;
+	margin-left: 1.2em;
+	text-align: center;
+}
+.noteboxh4 {
+  font-size: 0.8em; margin:0px; font-style:normal;
+  padding-left:1em; padding-right:0.3em; padding-top:0.2em; padding-bottom:0.2em;
+  background-color:#97bfff;
+}
+.notebox1 {
+  font-size: 0.8em; margin:0px; font-style:normal;
+  padding-left:1em; padding-right:0.3em; padding-top:0.2em; padding-bottom:0.2em;
+  background-color:#B566D8;
+}
+.noteboxp {
+	font-size: 0.8em;
+	margin: 0px;
+	padding-left: 0.3em;
+	padding-right: 0.3em;
+	padding-top: 0.5em;
+	padding-bottom: 0.2em;
+	background-color: #48A6B5;
+	text-align: left;
+}
+.footer {
+	font-size: 0.8em;
+	margin: 0px;
+	padding-left: 0.3em;
+	padding-right: 0.3em;
+	padding-top: 0.5em;
+	padding-bottom: 0.2em;
+	background-color: #EBE1E1;
+	text-align: center;
+}
+.imges {float:right ;
+width:100%
+}
+.body {background-color: #94E3E9
+}
+#banner {background-color:#0D2D83
+}
+#Home {background-color:#0FE068
+}
